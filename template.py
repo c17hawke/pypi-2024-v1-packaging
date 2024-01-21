@@ -106,6 +106,9 @@ path_and_kwargs = {
     },
     "docker-compose.yml": {
     "PROJECT_NAME": PROJECT_NAME
+    },
+    "Dockerfile": {
+    "PYTHON_VERSION": PYTHON_VERSION
     }  
     }
 
