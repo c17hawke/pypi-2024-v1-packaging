@@ -1,5 +1,6 @@
-# python cli template
-# How to use this template?
+# python template (UPDATE THIS WITH ORIGINAL DOCUMENTATION RELATED INFORMATION LATER)
+
+## Instruction on how to use this template?
 
 Documentation: `https://c17hawke.github.io/<repo-name>/<add project board link if any>`
 
@@ -50,6 +51,11 @@ Use and update `template.py` as per your requirements to create the other requir
 ```bash 
 python template.py
 ```
+
+> NOTE: Use `restore_original.py` to restore the templated files if required- 
+> ```bash
+> python restore_original.py
+> ```
 
 ### STEP 05: Add a `LICENSE` file
 
