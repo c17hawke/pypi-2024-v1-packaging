@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:<PYTHON_VERSION>
 
 # Install necessary packages
 RUN apt-get update && \
