@@ -1,4 +1,4 @@
-# python cli template
+# python template
 # How to use this template?
 
 Documentation: `https://c17hawke.github.io/<repo-name>/<add project board link if any>`
