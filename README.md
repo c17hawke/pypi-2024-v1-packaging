@@ -52,6 +52,11 @@ Use and update `template.py` as per your requirements to create the other requir
 python template.py
 ```
 
+> NOTE: Use `restore_original.py` to restore the templated files if required- 
+> ```bash
+> python restore_original.py
+> ```
+
 ### STEP 05: Add a `LICENSE` file
 
 - Go to your github repository and click on `Add file` and then select `Create new file`.
